@@ -1,6 +1,6 @@
 CodeKatas -- _wax on, wax off..._
 ================================
-[![Coding Is Amazing](http://i.imgur.com/aKu8CcE.gif)]
+![Coding Is Amazing](http://i.imgur.com/aKu8CcE.gif)
 ## Introduction
 A collection of code katas to further develop confidence, skills, and knowledge.
 
@@ -110,4 +110,4 @@ $ scheme --load file.scm
 ## License
 MIT © [bashhack](https://bashhack.github.io)
 
-[![Computer Hero](http://i.giphy.com/m2Q7FEc0bEr4I.gif)]
+![Computer Hero](http://i.giphy.com/m2Q7FEc0bEr4I.gif)
