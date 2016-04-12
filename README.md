@@ -9,12 +9,14 @@ work a defined problem within a reasonable time period in order to practice
 their craft.
 
 This project emerges from a set of core principles:
+
 1. Prefer polyglot programming where possible
 2. Favor code that adheres to SOLID and DRY patterns
 3. Conduct exercises within consistent dev environments
 4. Always be coding, always be improving!
 
 The languages to be used:
+
 * ECMAScript
 * Python
 * Purescript
